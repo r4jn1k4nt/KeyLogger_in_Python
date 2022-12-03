@@ -5,9 +5,9 @@ This program has beem created only for Linux Environment.
 
 pip3 install -r requirements.txt
 
-## Changes to be made in KeyLogger.py
+## Important changes to be made in KeyLogger.py
 
-In KeyLogger.py code line no. 6 "os.path.expanduser('YOUR_DESTINATION_FOLDER/file.log')",change YOUR_DESTINATION_FOLDER name to your desired folder name
+In KeyLogger.py code line no. 6 "os.path.expanduser('YOUR_DESTINATION_FOLDER/file.log')", change YOUR_DESTINATION_FOLDER name to **your desired folder name**.
 
 For example, os.path.expanduser('/home/username/Desktop/file.log')
 
